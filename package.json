@@ -3,5 +3,8 @@
   "version": "0.1.0",
   "description": "Put your description here",
   "author": "Your name goes here",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "devDependencies": {
+    "gulp": "~3.5.6"
+  }
 }
