@@ -1,9 +1,10 @@
 var gulp = require( "gulp" );
 var plugins = require( "gulp-load-plugins" )();
 
-var config = {
+GLOBAL.config = {
 	hostname : "localhost",
-	port : 3000
+	port : 3000,
+	base : "email"
 };
 
 // load tasks from the gulp directory
