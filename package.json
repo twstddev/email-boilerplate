@@ -11,6 +11,7 @@
     "connect-livereload": "~0.3.2",
     "tiny-lr": "0.0.5",
     "express": "~3.5.0",
-    "gulp-open": "~0.2.8"
+    "gulp-open": "~0.2.8",
+    "gulp-zip": "~0.2.0"
   }
 }
