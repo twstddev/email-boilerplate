@@ -19,5 +19,6 @@ gulp.task( "development", [
 
 
 gulp.task( "default", [ 
+	"clean",
 	"release"
 ] );

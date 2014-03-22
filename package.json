@@ -12,6 +12,7 @@
     "tiny-lr": "0.0.5",
     "express": "~3.5.0",
     "gulp-open": "~0.2.8",
-    "gulp-zip": "~0.2.0"
+    "gulp-zip": "~0.2.0",
+    "gulp-clean": "~0.2.4"
   }
 }
